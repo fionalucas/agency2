@@ -1,8 +1,7 @@
 ---
 label: template
 hide_body: false
-is_partial: true
-display_field: lucas
+is_partial: false
 fields:
 - type: field_group_list
 - type: textarea
