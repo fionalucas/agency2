@@ -21,3 +21,5 @@ fields:
   name: kjaslkdjkl
   label: asdljasd
   description: asdklsajdklj
+pages:
+- content/index.html
