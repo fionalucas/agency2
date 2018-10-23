@@ -1,0 +1,9 @@
+---
+label: index.html
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: label
+  name: name
+  description: description
