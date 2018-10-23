@@ -13,3 +13,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+- type: boolean
+  default: true
+  name: sidfihd
+  label: sdfhsdfo
+  description: vdfdfd
