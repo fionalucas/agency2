@@ -6,5 +6,9 @@ fields:
 - type: text
   name: bofas
   label: Bofas label
+- type: text
+  name: type
+  label: type
+  default: team
 pages:
 - content/team.html
